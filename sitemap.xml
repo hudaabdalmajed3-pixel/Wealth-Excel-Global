@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- الصفحات الرئيسية -->
+    <url><loc>https://wealthxcelglobal.com/</loc><priority>1.00</priority></url>
+    <url><loc>https://wealthxcelglobal.com/index.php</loc><priority>0.90</priority></url>
+    <url><loc>https://wealthxcelglobal.com/login.php</loc><priority>0.80</priority></url>
+    <url><loc>https://wealthxcelglobal.com/register.php</loc><priority>0.80</priority></url>
+    
+    <!-- الصفحات القانونية -->
+    <url><loc>https://wealthxcelglobal.com/privacy.php</loc><priority>0.70</priority></url>
+    <url><loc>https://wealthxcelglobal.com/terms.php</loc><priority>0.70</priority></url>
+    <url><loc>https://wealthxcelglobal.com/risk.php</loc><priority>0.70</priority></url>
+    
+    <!-- الخدمات والمحتوى -->
+    <url><loc>https://wealthxcelglobal.com/plans.php</loc><priority>0.80</priority></url>
+    <url><loc>https://wealthxcelglobal.com/academy.php</loc><priority>0.70</priority></url>
+    <url><loc>https://wealthxcelglobal.com/videos.php</loc><priority>0.70</priority></url>
+    
+    <!-- لوحات المستخدمين (يمكن إزالتها إن أردت عدم أرشفتها) -->
+    <url><loc>https://wealthxcelglobal.com/dashboard.php</loc><priority>0.60</priority></url>
+    <url><loc>https://wealthxcelglobal.com/withdraw.php</loc><priority>0.60</priority></url>
+</urlset>

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config.php
+Disallow: /includes/
+Disallow: /logs/
+
+Sitemap: https://wealthxcelglobal.com/sitemap.xml

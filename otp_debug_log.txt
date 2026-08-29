@@ -1,0 +1,2 @@
+[2026-08-25 15:55:35] OTP: 685520 | To: fahadsulimanalsalmi@gmail.com | Error: SMTP Error: data not accepted. SMTP server error: DATA END command failed Detail: Disabled by user from hPanel
+ SMTP code: 554 Additional SMTP info: 5.7.1
