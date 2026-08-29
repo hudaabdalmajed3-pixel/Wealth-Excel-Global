@@ -34,3 +34,20 @@
 1. Clone the repository:
    ```bash
    git clone [https://github.com/hudaabdalmajed3-pixel/Wealth-Excel-Global.git](https://github.com/hudaabdalmajed3-pixel/Wealth-Excel-Global.git)
+## 📸 Screenshots / Demo
+
+![01 Dashboard EN](https://github.com/user-attachments/assets/66e6cabd-263d-4f9e-9068-8eee86b7b4b1)
+
+![01 Dashboard AR](https://github.com/user-attachments/assets/0a8ef7cb-aeb8-45d9-8863-ba931c54aa2e)
+
+![02 Options EN](https://github.com/user-attachments/assets/93295a3c-d838-45d6-8aaf-9de452a14f81)
+
+![02 Options AR](https://github.com/user-attachments/assets/f4519f51-ba60-4572-94f9-6f26d6653c10)
+
+![03 Academy EN](https://github.com/user-attachments/assets/aba6435d-45fd-4377-b6cf-b3ca1debeda4)
+
+![03 Academy AR](https://github.com/user-attachments/assets/636526c6-91e0-4481-bd7e-4891d9c445e5)
+
+![04 Vision EN](https://github.com/user-attachments/assets/ddf1d4fd-312a-4ae4-a1e9-a9c3a5e422db)
+
+![04 Vision AR](https://github.com/user-attachments/assets/13215778-d3c9-436a-9919-ed6b290df3a9)
