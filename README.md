@@ -16,11 +16,6 @@
 
 ---
 
-## 🎥 Live Action Demo
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3f584cc1-711a-4423-aa12-47bbff8c739b" alt="Project Demo GIF" width="800" />
-</div>
 
 ---
 
